@@ -14,7 +14,7 @@ A simple command-line Student Management System developed using Python.
 
 ## Technologies Used
 
-- Python 3
+- Python 3.14.3
 
 ## Author
 
